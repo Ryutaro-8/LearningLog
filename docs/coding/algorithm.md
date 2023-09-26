@@ -32,3 +32,13 @@ x,y座標の話が理解ムズイ
 ### [minesweeper](https://atcoder.jp/contests/abc075/tasks/abc075_b)
 
 リスト使えば余裕そうだが、stringだけの知識だと難しそう。
+
+### [counting roads](https://atcoder.jp/contests/abc061/tasks/abc061_b)
+
+意外とムズイ。あるリストの要素数をカウントするという関数があれば楽
+
+### [Trained?](https://atcoder.jp/contests/abc065/tasks/abc065_b)
+
+意味不明  
+意味わかった。難しいけど、ボタンの位置と、ボタンの番号がれんどうしているという感じだった。  
+やるべき操作わかればらくちん。
