@@ -1,5 +1,6 @@
 * [Web](web/)
   * [AWS](web/aws/)
 * [Coding](coding/)
+  * [Algorithm](coding/algorithm.md)
 * [Deep Learning](deeplearning/)
 * [Other](other/)
